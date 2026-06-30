@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_navy">#070235</color>
+    <color name="accent_blue">#5D5FEF</color>
+    <color name="text_grey">#47464F</color>
+    <color name="footer_grey">#787680</color>
+    <color name="chip_bg">#F5F5F7</color>
+    <color name="chip_border">#E1E1E1</color>
+    <color name="button_bg">#1A1747</color>
+</resources>
