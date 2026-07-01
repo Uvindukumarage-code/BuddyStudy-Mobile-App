@@ -147,7 +147,18 @@ This project was developed as part of the **Mobile Application Development (MAD)
 ---
 
 
+#  Team Contributions
 
+| Team Member | Contribution |
+|-------------|--------------|
+| **Uvindu Kumarage** | Schedule Management Module (Create, Read, Update, Delete) |
+| **Praveen Madhubashitha** | Grade Management Module (Create, Read, Update, Delete) |
+| **U.A. Manula Maduranga** | Authentication Module (Login, Registration, OTP Verification, Password Reset)
+| **S.M.K. Mihiran** | Doubt Management Module (Create, Read, Update, Delete) |
+| **Udara Welathanthri** | Profile Management Module (Create, Read, Update, Delete) |
+
+> **Note:** Each module of this project was developed independently by the assigned team member. To simplify project integration and meet submission deadlines, all source code was consolidated and committed to the GitHub repository using a single team member's GitHub account. As a result, the repository's contribution graph reflects only the account used for integration rather than the individual development contributions of the entire team.
+> 
 #  Future Improvements
 
 - Firebase Authentication
